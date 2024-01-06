@@ -1,36 +1,56 @@
 [
-    {
-      "id": "7a7ebc74-5360-4a21-8e02-1b5e4e4e4e4e",
-      "name": "El señor de los anillos",
-      "characters": ["Frodo Bolsón", "Aragorn", "Gandalf"]
-    },
-    {
-      "id": "a1b2c3d4-5678-4e21-8e02-1b5e4e4e4e4e",
-      "name": "Harry Potter y la piedra filosofal",
-      "characters": ["Harry Potter", "Hermione Granger", "Ron Weasley"]
-    },
-    {
-      "id": "9a8b7c6d-5432-4a21-8e02-1b5e4e4e4e4e",
-      "name": "Cien años de soledad",
-      "characters": [
-        "José Arcadio Buendía",
-        "Aureliano Buendía",
-        "Úrsula Iguarán"
-      ]
-    },
-    {
-      "id": "e5f4g3h2-1234-4a21-8e02-1b5e4e4e4e4e",
-      "name": "1984",
-      "characters": ["Winston Smith", "Julia", "O'Brien"]
-    },
-    {
-      "id": "1a2b3c4d-8765-4a21-8e02-1b5e4e4e4e4e",
-      "name": "Don Quijote de la Mancha",
-      "characters": ["Don Quijote", "Sancho Panza", "Dulcinea del Toboso"]
-    },
-    {
-      "id": "1b421258-6fd8-49af-acd7-2385aae1fd42",
-      "name": "Orgullo y prejuicio",
-      "characters": ["Elizabeth Bennet", "Mr. Darcy", "Jane Bennet"]
-    }
-  ]
+  {
+    "id": "7a7ebc74-5360-4a21-8e02-1b5e4e4e4e4e",
+    "name": "El señor de los anillos",
+    "characters": [
+      "Frodo Bolsón",
+      "Aragorn",
+      "Gandalf"
+    ]
+  },
+  {
+    "id": "a1b2c3d4-5678-4e21-8e02-1b5e4e4e4e4e",
+    "name": "Harry Potter y la piedra filosofal",
+    "characters": [
+      "Harry Potter",
+      "Hermione Granger",
+      "Ron Weasley"
+    ]
+  },
+  {
+    "id": "9a8b7c6d-5432-4a21-8e02-1b5e4e4e4e4e",
+    "name": "Cien años de soledad",
+    "characters": [
+      "José Arcadio Buendía",
+      "Aureliano Buendía",
+      "Úrsula Iguarán"
+    ]
+  },
+  {
+    "id": "e5f4g3h2-1234-4a21-8e02-1b5e4e4e4e4e",
+    "name": "1984",
+    "characters": [
+      "Winston Smith",
+      "Julia",
+      "O'Brien"
+    ]
+  },
+  {
+    "id": "1a2b3c4d-8765-4a21-8e02-1b5e4e4e4e4e",
+    "name": "Don Quijote de la Mancha",
+    "characters": [
+      "Don Quijote",
+      "Sancho Panza",
+      "Dulcinea del Toboso"
+    ]
+  },
+  {
+    "id": "1b421258-6fd8-49af-acd7-2385aae1fd42",
+    "name": "Orgullo y prejuicio",
+    "characters": [
+      "Elizabeth Bennet",
+      "Mr. Darcy",
+      "Jane Bennet"
+    ]
+  }
+]
